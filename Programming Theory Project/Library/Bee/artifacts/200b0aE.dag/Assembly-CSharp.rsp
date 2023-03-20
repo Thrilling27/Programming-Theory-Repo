@@ -355,6 +355,12 @@
 "Assets/Materials/FarlandSkies/Demo/Scripts/Player/SmoothMouseLook.cs"
 "Assets/Materials/FarlandSkies/Demo/Scripts/Skybox/SkyboxChanger.cs"
 "Assets/Materials/FarlandSkies/Demo/Scripts/Skybox/SkyboxRotator.cs"
+"Assets/Scripts/Enemy.cs"
+"Assets/Scripts/EnemyJump.cs"
+"Assets/Scripts/EnemyNorm.cs"
+"Assets/Scripts/EnemySpeed.cs"
+"Assets/Scripts/Player.cs"
+"Assets/Scripts/RotateCamera.cs"
 -langversion:9.0
 
 /deterministic
