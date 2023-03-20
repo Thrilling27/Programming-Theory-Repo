@@ -359,6 +359,7 @@
 "Assets/Scripts/EnemyJump.cs"
 "Assets/Scripts/EnemyNorm.cs"
 "Assets/Scripts/EnemySpeed.cs"
+"Assets/Scripts/GameLoader.cs"
 "Assets/Scripts/Player.cs"
 "Assets/Scripts/RotateCamera.cs"
 -langversion:9.0
